@@ -39,10 +39,10 @@
 
 ```bash
 # 方式一：skills CLI（推荐）
-npx skills add <your-github-username>/geekmaster-skills@get-style-notes
+npx skills add yangjian102621/geekmaster-skills@get-style-notes
 
 # 方式二：手动复制到工具的技能目录（ZCode / Claude Code 为 ~/.agents/skills/）
-git clone https://github.com/<your-github-username>/geekmaster-skills.git
+git clone https://github.com/yangjian102621/geekmaster-skills.git
 cp -r geekmaster-skills/get-style-notes ~/.agents/skills/
 ```
 

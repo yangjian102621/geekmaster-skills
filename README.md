@@ -15,17 +15,17 @@ My personal collection of open-source Agent Skills for AI coding agents (Claude 
 ### 方式一：skills CLI（推荐）
 
 ```bash
-npx skills add <your-github-username>/geekmaster-skills@get-style-notes
+npx skills add yangjian102621/geekmaster-skills@get-style-notes
 ```
 
 ### 方式二：手动安装
 
 ```bash
-git clone https://github.com/<your-github-username>/geekmaster-skills.git
+git clone https://github.com/yangjian102621/geekmaster-skills.git
 cp -r geekmaster-skills/get-style-notes ~/.agents/skills/
 ```
 
-> 使用前请把 `<your-github-username>` 替换为你的 GitHub 用户名；不同工具的技能目录可能不同，按所用工具的文档放置。
+不同工具的技能目录可能不同，按所用工具的文档放置。
 
 ## License
 
